@@ -8,11 +8,11 @@
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "react-redux": "^5.0.3",
+    "react-router-dom": "4.2.2",
     "redux": "^3.6.0",
     "redux-thunk": "^2.2.0",
     "semantic-ui-css": "^2.2.12",
-    "semantic-ui-react": "^0.75.0",
-    "react-router-dom": "4.2.2"
+    "semantic-ui-react": "^0.75.0"
   },
   "devDependencies": {
     "react-scripts": "1.0.14"
